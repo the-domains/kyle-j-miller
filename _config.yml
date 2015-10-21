@@ -1,6 +1,6 @@
-name: null
+name: kyle.j.miller
 favicon: null
-layout_spectrum: 0.8724174702074379
+layout_spectrum: 0.22587
 typography_spectrum: 0.9775337022729218
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.2977946863975376
+  brandStrength: 0.125
   lightness: 0.7124355018604547
   saturation: 0.9625439075753093
   rhythmicContrast: 0.37842922867275774
