@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kyle.j.miller]]></title>
         <description><![CDATA[kyle.j.miller]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kyle-j-miller/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 02:32:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 02:32:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kyle-j-miller/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Holy shit this is so buggy!</p>]]></description>
+            <link>https://thegrid.ai/kyle-j-miller/946e2c7f-ea74-4787-986b-9405a1687e50/index.html</link>
+            <guid isPermaLink="false">946e2c7f-ea74-4787-986b-9405a1687e50</guid>
+            <pubDate>Wed, 21 Oct 2015 02:32:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>How the fuck do you expect *ANYONE* to use this?</p>]]></description>
-            <link>undefinedc40978dc-2b1c-4fd5-9dc7-68df27b6b345/index.html</link>
+            <link>https://thegrid.ai/kyle-j-miller/c40978dc-2b1c-4fd5-9dc7-68df27b6b345/index.html</link>
             <guid isPermaLink="false">c40978dc-2b1c-4fd5-9dc7-68df27b6b345</guid>
             <pubDate>Wed, 21 Oct 2015 02:32:26 GMT</pubDate>
         </item>
